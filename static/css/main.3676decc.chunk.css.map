@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,cACE,cACF","file":"main.3676decc.chunk.css","sourcesContent":[".button:hover {\n  cursor: pointer;\n}\n"]}
